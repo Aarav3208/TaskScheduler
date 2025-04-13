@@ -37,7 +37,7 @@ org.aarav/
 
 ---
 
-##  Getting Started
+##  How to run?
 
 ### 1. Clone the repository
 ```bash
