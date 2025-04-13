@@ -1,10 +1,10 @@
-# Task Scheduler 🧠
+# Task Scheduler 
 
 A multithreaded **Java Task Scheduler** that allows users to create, manage, and execute tasks with time-based or priority-based scheduling. Designed for learning and experimenting with Java concurrency, task management, and clean code design.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Add tasks with name, description, priority (1-10), and optional scheduled time
 - List tasks by status: Pending, In-Progress, Completed, or Failed
@@ -15,7 +15,7 @@ A multithreaded **Java Task Scheduler** that allows users to create, manage, and
 
 ---
 
-## 💪 Tech Stack
+## Tech Stack
 
 - Java 17+
 - Java Threads and Synchronization
@@ -26,7 +26,7 @@ A multithreaded **Java Task Scheduler** that allows users to create, manage, and
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 org.aarav/
@@ -37,7 +37,7 @@ org.aarav/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -66,7 +66,7 @@ java org.aarav.Main
 
 ---
 
-## 🔍 Sample CLI Output
+##  Sample CLI Output
 ```
 ===== TASK SCHEDULER =====
 1. Add new task
@@ -78,7 +78,7 @@ java org.aarav.Main
 
 ---
 
-## 📅 Future Improvements
+##  Future Improvements
 
 - Database integration using JDBC (e.g., PostgreSQL)
 - REST API with Spring Boot
@@ -88,7 +88,7 @@ java org.aarav.Main
 
 ---
 
-## 📚 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
